@@ -11,6 +11,5 @@ public class BatalhaNaval {
      */
     public static void main(String[] args) {
         System.out.println("Teste 8");
-        System.out.println("local");
     }
 }
