@@ -13,4 +13,14 @@ import br.ufsc.inf.leobr.cliente.Jogada;
  */
 public class MensagensRede implements Jogada{
     
+    private String mensagem;
+    
+    public MensagensRede(String mensagem){
+        super();
+        this.mensagem = mensagem;
+    }
+    
+    public String getMensagem(){
+        return mensagem;
+    }
 }
