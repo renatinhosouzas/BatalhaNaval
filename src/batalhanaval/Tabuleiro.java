@@ -11,4 +11,39 @@ package batalhanaval;
  */
 public class Tabuleiro {
     
+    public void iniciarPartida(){
+        
+    }
+    
+    public void setConfigTabuleiro(){
+        
+    }
+    
+    public void setDefaultConfigTabuleiro(){
+        
+    }
+    
+    public void distribuirPalavras(){
+        
+    }
+    
+    public void distribuirBombas(){
+        
+    }
+    
+    public void distribuirLetras(){
+        
+    }
+    
+    public void fazerJogada(Jogada jogada){
+        
+    }
+    
+    public void chutarPalavra(){
+        
+    }
+    
+    
+    
+    
 }

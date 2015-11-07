@@ -9,6 +9,6 @@ package batalhanaval;
  *
  * @author renato.souza
  */
-public class Letra {
+public class Jogada {
     
 }
